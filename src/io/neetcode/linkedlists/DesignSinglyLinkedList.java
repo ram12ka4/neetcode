@@ -76,11 +76,8 @@ public class DesignSinglyLinkedList {
 
 	public static void main(String[] args) {
 		DesignSinglyLinkedList obj = new DesignSinglyLinkedList();
-		System.out.println(obj.get(0));
-		obj.insertHead(10);
-		obj.insertTail(43);
-		obj.insertHead(87);
-		System.out.println(obj.remove(3));
+		obj.insertHead(1);
+		obj.remove(0);
 		System.out.println(obj.getValues());
 		
 	}
