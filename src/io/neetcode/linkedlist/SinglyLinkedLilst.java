@@ -1,4 +1,4 @@
-package io.neetcode.linkedlists;
+package io.neetcode.linkedlist;
 
 public class SinglyLinkedLilst {
 
